@@ -1,0 +1,14 @@
+@import "null.css";
+/*============ Fonts ================*/
+@import url("https://fonts.googleapis.com/css?family=Lato:regular,italic,700,900,900italic&display");
+
+/* =========================================================== */
+
+body{
+	font-family: "Lato", sans-serif ;
+}
+
+[class*="__container"]{
+	max-width: 1230px;
+	margin: 0 auto;
+}
